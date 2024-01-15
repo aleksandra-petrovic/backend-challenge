@@ -1,0 +1,399 @@
+player;age;position;value;Pts
+Aymeric Laporte;23;Defender;50000000;100
+John Stones;23;Defender;50000000;100
+Nicolás Otamendi;29;Defender;35000000;100
+Eliaquim Mangala;26;Defender;15000000;100
+Fabian Delph;27;Defender;15000000;100
+Vincent Kompany;31;Defender;10000000;100
+Phil Foden;17;Midfield;7000000;100
+Sergio Agüero;29;Forward;80000000;100
+Claudio Bravo;34;Goalkeeper;3500000;100
+Danilo;26;Defender;20000000;100
+Kevin De Bruyne;26;Midfield;150000000;100
+Brahim Díaz;17;Forward;5000000;100
+Ederson;23;Goalkeeper;50000000;100
+Fernandinho;32;Midfield;15000000;100
+Gabriel Jesus;20;Forward;80000000;100
+Benjamin Mendy;23;Defender;40000000;100
+Leroy Sané;21;Forward;90000000;100
+Bernardo Silva;22;Forward;50000000;100
+David Silva;31;Midfield;30000000;100
+Raheem Sterling;22;Forward;90000000;100
+Kyle Walker;27;Defender;50000000;100
+Oleksandr Zinchenko;20;Defender;7000000;100
+Xherdan Shaqiri;27;Forward;16000000;99
+Virgil van Dijk;28;Defender;80000000;99
+Trent Alexander-Arnold;20;Defender;99000000;99
+Takumi Minamino;24;Forward;10000000;99
+Sadio Mané;27;Forward;120000000;99
+Roberto Firmino;27;Forward;72000000;99
+Neco Williams;18;Defender;4000000;99
+Naby Keïta;24;Midfield;33000000;99
+Mohamed Salah;27;Forward;120000000;99
+Jordan Henderson;29;Midfield;28000000;99
+Joe Gomez;22;Defender;33000000;99
+JoĂ«l Matip;27;Defender;32000000;99
+James Milner;33;Midfield;6000000;99
+Harvey Elliot;16;Defender;4000000;99
+Georginio Wijnaldum;28;Midfield;40000000;99
+Fabinho;25;Midfield;56000000;99
+Divock Origi;24;Forward;16000000;99
+Dejan Lovren;30;Defender;16000000;99
+Curtis Jones;18;Midfield;1000000;99
+Alisson;26;Goalkeeper;72000000;99
+Alex Oxlade-Chamberlain;25;Midfield;28000000;99
+Adrian;32;Goalkeeper;4000000;99
+Adam Lallana;31;Midfield;9000000;99
+Sergio Agüero;30;Forward;65000000;98
+Danilo;27;Defender;20000000;98
+Kevin De Bruyne;27;Midfield;130000000;98
+Fabian Delph;28;Defender;15000000;98
+Ederson;24;Goalkeeper;70000000;98
+Fernandinho;33;Midfield;12000000;98
+Phil Foden;18;Midfield;25000000;98
+Gabriel Jesus;21;Forward;70000000;98
+Vincent Kompany;32;Defender;8000000;98
+Aymeric Laporte;24;Defender;75000000;98
+Riyad Mahrez;27;Forward;60000000;98
+Benjamin Mendy;24;Defender;35000000;98
+Nicolás Otamendi;30;Defender;25000000;98
+Leroy Sané;22;Forward;100000000;98
+Bernardo Silva;23;Midfield;100000000;98
+David Silva;32;Midfield;20000000;98
+Raheem Sterling;23;Forward;140000000;98
+John Stones;24;Defender;60000000;98
+Kyle Walker;28;Defender;50000000;98
+Oleksandr Zinchenko;21;Defender;20000000;98
+Trent Alexander-Arnold;19;Defender;80000000;97
+Alisson;25;Goalkeeper;80000000;97
+Nathaniel Clyne;27;Defender;12000000;97
+Virgil van Dijk;27;Defender;90000000;97
+Fabinho;24;Midfield;50000000;97
+Roberto Firmino;26;Forward;80000000;97
+Joe Gomez;21;Defender;35000000;97
+Jordan Henderson;28;Midfield;35000000;97
+Naby Keïta;23;Midfield;60000000;97
+Adam Lallana;30;Midfield;15000000;97
+Dejan Lovren;29;Defender;20000000;97
+Sadio Mané;26;Forward;120000000;97
+James Milner;32;Midfield;15000000;97
+Alberto Moreno;26;Defender;9000000;97
+Divock Origi;23;Forward;20000000;97
+Alex Oxlade-Chamberlain;24;Midfield;35000000;97
+Mohamed Salah;26;Forward;150000000;97
+Xherdan Shaqiri;26;Forward;25000000;97
+Daniel Sturridge;28;Forward;15000000;97
+Georginio Wijnaldum;27;Midfield;50000000;97
+Blaise Matuidi;30;Midfield;30000000;95
+Medhi Benatia;30;Defender;23000000;95
+Daniele Rugani;23;Defender;22000000;95
+Sami Khedira;30;Midfield;26000000;95
+Rodrigo Bentancur;20;Midfield;15000000;95
+Giorgio Chiellini;32;Defender;10000000;95
+Benedikt Höwedes;29;Defender;9000000;95
+Stefano Sturaro;24;Midfield;7500000;95
+Claudio Marchisio;31;Midfield;7000000;95
+Kwadwo Asamoah;28;Defender;14000000;95
+Federico Bernardeschi;23;Forward;40000000;95
+Gianluigi Buffon;39;Goalkeeper;2000000;95
+Douglas Costa;26;Forward;55000000;95
+Juan Cuadrado;29;Forward;28000000;95
+Mattia De Sciglio;24;Defender;14000000;95
+Paulo Dybala;23;Midfield;110000000;95
+Gonzalo Higuaín;29;Forward;60000000;95
+Stephan Lichtsteiner;33;Defender;1500000;95
+Carlo Pinsoglio;27;Goalkeeper;50000;95
+Alex Sandro;26;Defender;45000000;95
+Andrea Barzagli;36;Defender;1000000;95
+Samuel Umtiti;23;Defender;60000000;93
+Marquinhos;23;Defender;55000000;93
+Gerard Piqué;30;Defender;50000000;93
+Marco Verratti;24;Midfield;70000000;93
+Adrien Rabiot;22;Midfield;50000000;93
+Paulinho;29;Midfield;40000000;93
+Presnel Kimpembe;21;Defender;30000000;93
+Jordi Alba;28;Defender;60000000;93
+Paco Alcácer;23;Forward;15000000;93
+Sergio Busquets;29;Midfield;80000000;93
+Jasper Cillessen;28;Goalkeeper;9000000;93
+Philippe Coutinho;25;Forward;100000000;93
+Ousmane Dembélé;20;Forward;80000000;93
+Gerard Deulofeu;23;Midfield;14000000;93
+Lucas Digne;24;Defender;15000000;93
+Giovani Lo Celso;21;Midfield;30000000;93
+Javier Mascherano;33;Defender;5000000;93
+Lionel Messi;30;Forward;180000000;93
+Blaise Matuidi;30;Midfield;30000000;93
+Sergi Roberto;25;Defender;55000000;93
+Nélson Semedo;23;Defender;30000000;93
+Denis Suárez;23;Midfield;15000000;93
+Luis Suárez;30;Forward;70000000;93
+Marc-André ter Stegen;25;Goalkeeper;60000000;93
+Aleix Vidal;27;Midfield;7500000;93
+André Gomes;24;Midfield;15000000;93
+Andrés Iniesta;33;Midfield;10000000;93
+Thiago Silva;32;Defender;10000000;93
+Yerry Mina;22;Defender;9000000;93
+Thomas Vermaelen;31;Defender;5000000;93
+Dani Alves;34;Defender;4000000;93
+Alphonse Areola;24;Goalkeeper;15000000;93
+Yuri Berchiche;27;Defender;17000000;93
+Edinson Cavani;30;Forward;60000000;93
+Ángel Di María;29;Forward;40000000;93
+Lassana Diarra;32;Midfield;2500000;93
+Julian Draxler;23;Midfield;35000000;93
+Gonçalo Guedes;20;Forward;40000000;93
+Layvin Kurzawa;24;Defender;20000000;93
+Kylian Mbappé;18;Forward;120000000;93
+Thomas Meunier;25;Defender;15000000;93
+Thiago Motta;34;Midfield;1000000;93
+Lucas Moura;24;Forward;28000000;93
+Neymar;25;Forward;180000000;93
+Christopher Nkunku;19;Forward;10000000;93
+Javier Pastore;28;Midfield;15000000;93
+Kevin Trapp;27;Goalkeeper;8000000;93
+Timothy Weah;17;Forward;1000000;93
+Dani Alves;35;Midfield;2500000;91
+Alphonse Areola;25;Goalkeeper;17500000;91
+Juan Bernat;25;Defender;15000000;91
+Antoine Bernede;19;Midfield;3000000;91
+Gianluigi Buffon;40;Goalkeeper;1000000;91
+Edinson Cavani;31;Forward;40000000;91
+Colin Dagba;19;Defender;12000000;91
+Ángel Di María;30;Forward;40000000;91
+Moussa Diaby;19;Midfield;12000000;91
+Julian Draxler;24;Midfield;35000000;91
+Thilo Kehrer;21;Defender;35000000;91
+Presnel Kimpembe;22;Defender;30000000;91
+Layvin Kurzawa;25;Defender;17500000;91
+Giovani Lo Celso;22;Midfield;50000000;91
+Marquinhos;24;Defender;65000000;91
+Eric Maxim Choupo-Moting;29;Forward;5000000;91
+Kylian Mbappé;19;Forward;200000000;91
+Loïc Mbe Soh;17;Defender;3000000;91
+Thomas Meunier;26;Defender;30000000;91
+Neymar;26;Midfield;180000000;91
+Christopher Nkunku;20;Midfield;12000000;91
+Leandro Paredes;24;Midfield;35000000;91
+Adrien Rabiot;23;Midfield;35000000;91
+Kévin Rimane;27;Midfield;250000;91
+Thiago Silva;33;Defender;10000000;91
+Marco Verratti;25;Midfield;75000000;91
+Timothy Weah;18;Forward;6000000;91
+Kalidou Koulibaly;26;Defender;60000000;91
+Allan;26;Midfield;33000000;91
+Raúl Albiol;31;Defender;8000000;91
+Marko Rog;22;Forward;8000000;91
+Vlad Chiricheș;27;Defender;5000000;91
+Lorenzo Tonelli;27;Defender;5000000;91
+José Callejón;30;Forward;24000000;91
+Amadou Diawara;20;Midfield;18000000;91
+Faouzi Ghoulam;26;Defender;25000000;91
+Emanuele Giaccherini;32;Forward;1000000;91
+Elseid Hysaj;23;Defender;25000000;91
+Lorenzo Insigne;26;Forward;60000000;91
+Jorginho;25;Midfield;50000000;91
+Christian Maggio;35;Defender;50000;91
+Dries Mertens;30;Forward;30000000;91
+Arkadiusz Milik;23;Forward;20000000;91
+Adam Ounas;20;Forward;4500000;91
+Pepe Reina;34;Goalkeeper;1000000;91
+Mário Rui;26;Defender;14000000;91
+Luigi Sepe;26;Goalkeeper;1000000;91
+Andrea Barzagli;37;Defender;1000000;90
+Medhi Benatia;31;Defender;9000000;90
+Rodrigo Bentancur;21;Midfield;35000000;90
+Federico Bernardeschi;24;Forward;45000000;90
+Leonardo Bonucci;31;Defender;28000000;90
+Martín Cáceres;31;Defender;1500000;90
+Emre Can;24;Midfield;40000000;90
+João Cancelo;24;Defender;55000000;90
+Giorgio Chiellini;33;Defender;7500000;90
+Douglas Costa;27;Forward;38000000;90
+Juan Cuadrado;30;Midfield;18000000;90
+Mattia De Sciglio;25;Defender;14000000;90
+Paulo Dybala;24;Forward;85000000;90
+Grigoris Kastanos;20;Midfield;400000;90
+Moise Kean;18;Forward;40000000;90
+Sami Khedira;31;Midfield;7000000;90
+Blaise Matuidi;31;Midfield;22000000;90
+Stephy Mavididi;20;Forward;550000;90
+Hans Nicolussi Caviglia;18;Midfield;500000;90
+Mattia Perin;25;Goalkeeper;13000000;90
+Carlo Pinsoglio;28;Goalkeeper;500000;90
+Manolo Portanova;18;Midfield;800000;90
+Cristiano Ronaldo;33;Forward;90000000;90
+Daniele Rugani;24;Defender;22000000;90
+Alex Sandro;27;Defender;45000000;90
+Leonardo Spinazzola;25;Defender;15000000;90
+Vinícius Júnior;19;Forward;50000000;87
+Toni Kroos;29;Midfield;48000000;87
+Thibaut Courtois;27;Goalkeeper;48000000;87
+Sergio Ramos;33;Defender;14000000;87
+Rodrygo;18;Forward;45000000;87
+Raphaël Varane;26;Defender;64000000;87
+Nacho;29;Defender;10000000;87
+Mariano;25;Forward;12000000;87
+Marco Asensio;23;Forward;32000000;87
+Marcelo;31;Defender;12000000;87
+Luka Modric;33;Midfield;10000000;87
+Luka Jovic;21;Forward;22000000;87
+Lucas VĂˇzquez;28;Midfield;16000000;87
+Karim Benzema;31;Forward;32000000;87
+James RodrĂ­guez;28;Midfield;32000000;87
+Isco;27;Forward;20000000;87
+Gareth Bale;30;Forward;32000000;87
+Ferland Mendy;24;Defender;32000000;87
+Federico Valverde;21;Midfield;54000000;87
+Eden Hazard;28;Forward;80000000;87
+Dani Carvajal;27;Defender;40000000;87
+Casemiro;27;Midfield;65000000;87
+Brahim Dìaz;19;Forward;13000000;87
+Alphonse Areola;26;Goalkeeper;13000000;87
+Álvaro Odriozola;23;Defender;16000000;87
+Édgar Militão;21;Defender;36000000;87
+Jordi Alba;29;Defender;50000000;87
+Carles Aleñá;20;Midfield;30000000;87
+Kevin-Prince Boateng;31;Forward;7000000;87
+Sergio Busquets;30;Midfield;50000000;87
+Jasper Cillessen;29;Goalkeeper;18000000;87
+Álex Collado;19;Forward;1000000;87
+Philippe Coutinho;26;Forward;90000000;87
+Ousmane Dembélé;21;Forward;100000000;87
+Munir El Haddadi;22;Forward;10000000;87
+Clément Lenglet;23;Defender;60000000;87
+Malcom;21;Forward;40000000;87
+Lionel Messi;31;Forward;150000000;87
+Jeison Murillo;26;Defender;10000000;87
+Carles Pérez;20;Forward;1500000;87
+Gerard Piqué;31;Defender;35000000;87
+Riqui Puig;18;Midfield;10000000;87
+Rafinha;25;Forward;15000000;87
+Sergi Roberto;26;Defender;50000000;87
+Abel Ruiz;18;Forward;3000000;87
+Nélson Semedo;24;Defender;40000000;87
+Denis Suárez;24;Midfield;12000000;87
+Luis Suárez;31;Forward;50000000;87
+Marc-André ter Stegen;26;Goalkeeper;90000000;87
+Jean-Clair Todibo;18;Defender;8000000;87
+Samuel Umtiti;24;Defender;45000000;87
+Thomas Vermaelen;32;Defender;2500000;87
+Arturo Vidal;31;Midfield;15000000;87
+Moussa Wagué;19;Defender;5000000;87
+Mats Hummels;28;Defender;60000000;84
+David Alaba;25;Defender;50000000;84
+Jérome Boateng;28;Defender;45000000;84
+Corentin Tolisso;22;Midfield;40000000;84
+Niklas Süle;21;Defender;38000000;84
+Arturo Vidal;30;Midfield;35000000;84
+Juan Bernat;24;Defender;12000000;84
+Kingsley Coman;21;Forward;50000000;84
+Niklas Dorsch;19;Midfield;40000;84
+Franck Evina;17;Forward;10000;84
+Joshua Kimmich;22;Defender;55000000;84
+Robert Lewandowski;28;Forward;90000000;84
+Javi Martínez;28;Midfield;40000000;84
+Thomas Müller;27;Forward;60000000;84
+Manuel Neuer;31;Goalkeeper;35000000;84
+Kwasi Okyere Wriedt;23;Midfield;60000;84
+Franck Ribéry;34;Forward;4000000;84
+Arjen Robben;33;Forward;7000000;84
+James Rodríguez;26;Midfield;70000000;84
+Sebastian Rudy;27;Midfield;15000000;84
+Tom Starke;36;Goalkeeper;10000;84
+Sven Ulreich;28;Goalkeeper;6000000;84
+Rafinha;31;Defender;28000000;84
+Sandro Wagner;29;Forward;12000000;84
+Marco Friedl;19;Defender;1500000;84
+Lars Lukas Mai;17;Defender;60000;84
+Wojciech Szczęsny;29;Goalkeeper;35000000;83
+Simone Muratore;21;Midfield;12500;83
+Sami Khedira;32;Midfield;5000000;83
+Rodrigo Bentancur;22;Midfield;40000000;83
+Paulo Dybala;25;Forward;72000000;83
+Miralem Pjanic;29;Midfield;50000000;83
+Merih Demiral;21;Defender;27000000;83
+Mattia De Sciglio;26;Defender;9000000;83
+Matthijs de Ligt;19;Defender;67000000;83
+Marco Olivieri;20;Forward;20000;83
+Luca Zanimacchia;21;Forward;25000;83
+Leonardo Bonucci;32;Defender;20000000;83
+Juan Cuadrado;31;Defender;14000000;83
+Gonzalo Higuaín;31;Forward;25000000;83
+Giorgio Chiellini;34;Defender;4000000;83
+Gianluigi Buffon;41;Goalkeeper;1000000;83
+Gianluca Frabotta;20;Defender;7500;83
+Giacomo Vrioni;20;Forward;45000;83
+Federico Bernardeschi;25;Midfield;28000000;83
+Emre Can;25;Midfield;26000000;83
+Douglas Costa;28;Forward;24000000;83
+Daouda Peeters;20;Midfield;10000;83
+Danilo;28;Defender;15000000;83
+Daniele Rugani;25;Defender;12000000;83
+Cristiano Ronaldo;34;Forward;60000000;83
+Carlo Pinsoglio;29;Goalkeeper;40000;83
+Blaise Matuidi;32;Midfield;10000000;83
+Alex Sandro;28;Defender;35000000;83
+Adrien Rabiot;24;Midfield;25000000;83
+Aaron Ramsey;28;Midfield;28000000;83
+Victor Moses;28;Defender;6000000;82
+Valentino Lazaro;23;Defender;15000000;82
+Thomas Müller;29;Midfield;25000000;82
+Thiago Alcântara;28;Midfield;48000000;82
+Sven Ulreich;30;Goalkeeper;3000000;82
+Stefano Sensi;23;Midfield;24000000;82
+Stefan de Vrij;27;Defender;48000000;82
+Sergio Busquets;31;Midfield;28000000;82
+Sergi Roberto;27;Defender;40000000;82
+Serge Gnabry;24;Forward;72000000;82
+Sebastiano Esposito;17;Forward;9000000;82
+Samuel Umtiti;25;Defender;32000000;82
+Samir Handanovič;35;Goalkeeper;4000000;82
+Ronald Araújo;20;Defender;4000000;82
+Romelu Lukaku;26;Forward;68000000;82
+Roberto Gagliardini;25;Midfield;12000000;82
+Robert Lewandowski;30;Forward;56000000;82
+Riqui Puig;19;Midfield;9000000;82
+Renato Sanches;21;Midfield;16000000;82
+Rafinha;26;Forward;9500000;82
+Philippe Coutinho;27;Midfield;56000000;82
+Ousmane Dembélé;22;Forward;56000000;82
+Niklas Süle;23;Defender;48000000;82
+Nicolò Barella;22;Midfield;36000000;82
+Nélson Semedo;25;Defender;32000000;82
+Moussa Wagué;20;Defender;6000000;82
+Milan Skriniar;24;Defender;50000000;82
+MickaĂ«l Cuisance;19;Midfield;10000000;82
+Matteo Politano;25;Forward;22000000;82
+Matías Vecino;27;Midfield;18000000;82
+Martin Braithwaite;28;Forward;9000000;82
+Marcelo Brozovic;26;Midfield;40000000;82
+Marc-André ter Stegen;27;Goalkeeper;72000000;82
+Manuel Neuer;33;Goalkeeper;14000000;82
+Luis Suárez;32;Forward;28000000;82
+Lucien Agoume;17;Midfield;3000000;82
+Lucas HernĂˇndez;23;Defender;56000000;82
+Lorenzo Pirola;17;Defender;90000;82
+Lionel Messi;32;Forward;112000000;82
+Leon Goretzka;24;Midfield;40000000;82
+Leon Dajaku;18;Defender;2000000;82
+Lautaro Martínez;21;Forward;64000000;82
+Kwasi Okyere Wriedt;25;Forward;80000;82
+Kwadwo Asamoah;30;Defender;6000000;82
+Kingsley Coman;23;Forward;40000000;82
+Junior Firpo;22;Defender;14000000;82
+Joshua Zirkzee;18;Forward;6000000;82
+Joshua Kimmich;24;Midfield;64000000;82
+Jordi Alba;30;Defender;40000000;82
+Jean-Clair Todibo;19;Defender;9000000;82
+Javi MartĂ­nez;30;Defender;20000;82
+Jérome Boateng;30;Defender;12000000;82
+Ivan Rakitic;31;Midfield;10000000;82
+Ivan PeriĹˇiÄ‡;30;Forward;15000000;82
+Gerard PiquĂ©;32;Defender;20000000;82
+Frenkie de Jong;22;Midfield;72000000;82
+Federico Dimarco;21;Defender;4000000;82
+Diego Godìn;33;Defender;8000000;82
+David Alaba;27;Defender;52000000;82
+Danilo D'Ambrosio;30;Defender;10000000;82
+Daniele Padelli;33;Goalkeeper;65000;82
